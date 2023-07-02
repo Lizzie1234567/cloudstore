@@ -1,7 +1,7 @@
 ## ceph
 [![Z9xOlq.md.jpg](https://s2.ax1x.com/2019/06/23/Z9xOlq.md.jpg)](https://imgchr.com/i/Z9xOlq)
 
-![文件上传演示2](../images/filestore-2-4-2.png)
+![文件上传演示2](../images/7-2-1.png)
 
 ## ceph集群docker部署
 通过docker可以快速部署小规模Ceph集群的流程，可用于开发测试。
